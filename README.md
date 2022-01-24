@@ -1,7 +1,7 @@
 # m3-hw3-lawrence-taylor
 
-![Lighthouse_Full](/SS Full.jpg)
+![Lighthouse_Full](m3-hw3-lawrence-taylor/SS Full.jpg)
 
-![Lighthouse_Accessibility](/SS Accessibility.jpg)
+![Lighthouse_Accessibility](m3-hw3-lawrence-taylor/SS Accessibility.jpg)
 
-![Lighthouse_SEO](/SS SEO.jpg)
+![Lighthouse_SEO](m3-hw3-lawrence-taylor/SS SEO.jpg)
